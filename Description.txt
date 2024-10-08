@@ -1,0 +1,6 @@
+Bu bir bitirme projesi sunumudur. Videolu anlatım ve slayt, proje hakkında bilgi vermektedir.
+Bitirme projesi olmasından ötürü kaynak kodları paylaşılmamaktadır.
+
+---
+
+This is a final project presentation. The video presentation and slides provide information about the project. As this is a final project, the source code is not shared.
